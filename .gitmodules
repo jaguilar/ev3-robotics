@@ -1,0 +1,3 @@
+[submodule "devinput"]
+	path = devinput
+	url = https://github.com/jaguilar/read-dev-input.git
